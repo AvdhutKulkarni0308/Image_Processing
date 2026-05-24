@@ -102,16 +102,6 @@ Where:
 
 ---
 
-# 📂 Project Structure
-
-```text
-├── README.md
-├── noise_restoration.ipynb
-├── image.jpg
-```
-
----
-
 # 🧪 Filters Implemented
 
 | Filter                    | Purpose                                  |
