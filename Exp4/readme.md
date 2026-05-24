@@ -102,24 +102,6 @@ Where:
 
 ---
 
-# 🚀 Installation
-
-Install required libraries using pip:
-
-```bash
-pip install opencv-python numpy matplotlib
-```
-
----
-
-# ▶️ How to Run
-
-1. Open Google Colab or Jupyter Notebook
-2. Upload the image
-3. Run all notebook cells sequentially
-
----
-
 # 📂 Project Structure
 
 ```text
@@ -140,17 +122,6 @@ pip install opencv-python numpy matplotlib
 
 ---
 
-# 📸 Output
-
-The program displays:
-
-* Original Image
-* Noisy Image
-* Restored image using Arithmetic Mean Filter
-* Restored image using Midpoint Filter
-* Restored image using Alpha-Trimmed Mean Filter
-
----
 
 # 💻 Technologies Used
 
@@ -161,13 +132,6 @@ The program displays:
 
 ---
 
-# 📖 References
-
-* Digital Image Processing by Gonzalez & Woods
-* OpenCV Documentation: [OpenCV Official Documentation](https://opencv.org/?utm_source=chatgpt.com)
-* NumPy Documentation: [NumPy Official Documentation](https://numpy.org/?utm_source=chatgpt.com)
-
----
 
 # ✅ Result
 
